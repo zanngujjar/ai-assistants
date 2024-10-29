@@ -1,0 +1,12 @@
+{
+  "name": "ai-assistants",
+  "version": "1.0.0",
+  "description": "requirements\r cmd:npm init -y\r cmd: npm install openai inquirer dotenv fs\r now upload the files into that directory\r create .env file with one line saying OPENAI_API_KEY='your open ai key(no '')'\r save env file\r cmd: node index.js\r Have fun:)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
